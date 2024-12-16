@@ -1,4 +1,4 @@
-# **Notes Web App: Efficient Note-Taking Solution**
+# Notes Web App: Efficient Note-Taking Solution
 
 The **Notes Web App** is a full-stack application developed using the **MERN stack** (MongoDB, Express.js, React, and Node.js). It allows users to create, read, update, and delete notes while offering secure authentication, a responsive UI, and user-specific functionalities.
 
