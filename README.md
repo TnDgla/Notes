@@ -82,6 +82,16 @@ The system architecture for the Notes Web App ensures secure user authentication
 
 ---
 
+# Project Structure for Feature Implementation
+This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
+
+---
+
+**NOTE:**
+Participants are encouraged to customize the user interface and incorporate additional features into the application. These modifications allow participants to demonstrate creativity, improve usability, and enhance the functionality of the project. Such enhancements align with the project’s objective of fostering innovative thinking while providing a personalized learning experience.
+
+---
+
 ### **Week-by-Week Learning Plan**
 
 #### **Week 1: Project Setup**
