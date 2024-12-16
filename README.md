@@ -135,10 +135,10 @@ Participants are encouraged to customize the user interface and incorporate addi
 - **Tasks:**
   1. Create CRUD routes for notes in the backend.
      - **Reading:** [RESTful API Design](https://restfulapi.net/)  
-     - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pgpFFLCk6Lg)
+     - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48&t=1s)
   2. Build React components for creating, reading, updating, and deleting notes.
      - **Reading:** [React Components](https://react.dev/reference/react-dom/components)  
-     - **Video:** [CRUD Operations in React](https://www.youtube.com/watch?v=n0JCF4jwn-g)
+     - **Video:** [CRUD Operations in React](https://www.youtube.com/watch?v=maGN8iGs744)
 
 - **Deliverables:**
   - Fully functional note management system.
